@@ -18,13 +18,19 @@ Here are some ideas to get you started:
   Enlace: https://www.linkedin.com/in/luiseduardo-dom%C3%ADnguezmu%C3%B1oz-322010204/
 
 - HABILIDADES
+
   Trabajo en equipo
+  
   Resolución de problemas
+  
   Atención al cliente
+  
   Liderazgo
 
 - IDIOMAS
+  
   Español Nativo
+  
   Ingles Nivel básico 
 
 - EDUCACIÓN
@@ -42,8 +48,13 @@ Here are some ideas to get you started:
   Agosto 2001 - Julio 2004
 
 - CERTIFICADOS Y CURSOS
+  
   Fundamentos de Programación Python y Java, 400 horas, Año 2021, UTP (Mintic) Pereira, Risaralda.
+  
   Curso Fundamentos de ITIL, 20 horas, Año 2019, GRUPO OESIA Bogotá, Cundinamarca.
+  
   Certificado de Aptitud Profesional en Ensamble de Computadores, 880 horas, Año 2006, SENA Dosquebradas, Risaralda.
+  
   Curso Instalaciones Eléctricas Domiciliarias, 80 horas, Año 2005, SENA Armenia, Quindío.
+  
   Curso Básico de Electricidad, 80 horas, Año 2004, SENA Armenia, Quindío.
