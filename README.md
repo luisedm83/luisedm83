@@ -1,4 +1,4 @@
-### Portafolio Luis Dominguez 👋
+### Portafolio Luis Eduardo Dominguez Muñoz👋
 
 
 **Profesional en Ingeniería Electrónica, Diplomado en CCNA Switching & Routing; Fundamentos de programación Python y Java, Fundamentos de ITIL, Técnico de sistemas y Cursos de electricidad. Con 16 años de experiencia en Telecomunicaciones, Electricidad y Sistemas. Competente para diseñar soluciones con medios de Radio, Fibra, Cobre o Satelital; Brindar soporte a fallas, configuración de equipos. Apto para coordinar personal, asegurando el buen desempeño de los grupos de trabajo, atención al cliente, elaboración de informes, entre otros.
