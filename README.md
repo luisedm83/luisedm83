@@ -10,11 +10,11 @@ Here are some ideas to get you started:
   
 - ⚡ Soy comprometido con las funciones que debo desempeñar, busco la manera de mejorar procesos, me gusta el trabajo en equipo y soy bueno para resolver problemas.
 - INFORMACIÓN DE CONTACTO
-  Email: luisedm83@gmail.com
-  Dirección: Calle 69 # 1A 10-21 Metropolitano del Norte, Cali
-  Teléfono: 3128318168
-  Fecha de nacimiento: 10-02-1983
-  Nacionalidad: Colombiano
+  Email: luisedm83@gmail.com,
+  Dirección: Calle 69 # 1A 10-21 Metropolitano del Norte, Cali,
+  Teléfono: 3128318168,
+  Fecha de nacimiento: 10-02-1983,
+  Nacionalidad: Colombiano,
   Enlace: https://www.linkedin.com/in/luiseduardo-dom%C3%ADnguezmu%C3%B1oz-322010204/
 
 - HABILIDADES
@@ -28,8 +28,10 @@ Here are some ideas to get you started:
   Ingles Nivel básico 
 
 - EDUCACIÓN
+
   Ingeniero Electrónico
   UNAD - Universidad Nacional Abierta y a Distancia
+  
   Diplomado en CCNA Switching & Routing
   Palmira, Valle
   Agosto 2012 - Agosto 2018
