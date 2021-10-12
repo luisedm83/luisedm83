@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Soy comprometido con las funciones que debo desempeñar, busco la manera de mejorar procesos, me gusta el trabajo en equipo y soy bueno para resolver problemas.
 - INFORMACIÓN DE CONTACTO
   Email: luisedm83@gmail.com,
-  Dirección: Calle 69 # 1A 10-21 Metropolitano del Norte, Cali,
+  Ciudad: Cali,Valle del Cauca
   Teléfono: 3128318168,
   Fecha de nacimiento: 10-02-1983,
   Nacionalidad: Colombiano,
